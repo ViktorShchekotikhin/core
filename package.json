@@ -4,8 +4,7 @@
     "description": "Core utilities and shared setup",
     "type": "commonjs",
     "publishConfig": {
-        "access": "public",
-        "registry": "https://registry.npmjs.org/"
+        "access": "public"
     },
     "license": "ISC",
     "author": {
