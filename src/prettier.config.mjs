@@ -16,10 +16,7 @@ export default {
         "typescript"
     ],
     importOrder: [
-        "<THIRD_PARTY_MODULES>",
-        "^@/(.*)$",
-        "^../(.*)",
-        "^./(.*)"
+        "<THIRD_PARTY_MODULES>", "^@/(.*)$", "^../(.*)", "^./(.*)"
     ],
     plugins: ["@trivago/prettier-plugin-sort-imports"]
 }
